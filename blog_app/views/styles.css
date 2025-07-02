@@ -1,0 +1,6 @@
+.card-img-top {
+  width: 100%;           /* Full width of card */
+  height: 100px;         /* Fixed height */
+  object-fit: cover;     /* Crops excess while keeping aspect ratio */
+  border-radius: 8px;
+}
